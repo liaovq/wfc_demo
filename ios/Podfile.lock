@@ -1,0 +1,28 @@
+PODS:
+  - Flutter (1.0.0)
+  - imclient (0.0.1):
+    - Flutter
+  - rtckit (0.0.1):
+    - Flutter
+
+DEPENDENCIES:
+  - Flutter (from `Flutter`)
+  - imclient (from `.symlinks/plugins/imclient/ios`)
+  - rtckit (from `.symlinks/plugins/rtckit/ios`)
+
+EXTERNAL SOURCES:
+  Flutter:
+    :path: Flutter
+  imclient:
+    :path: ".symlinks/plugins/imclient/ios"
+  rtckit:
+    :path: ".symlinks/plugins/rtckit/ios"
+
+SPEC CHECKSUMS:
+  Flutter: f04841e97a9d0b0a8025694d0796dd46242b2854
+  imclient: f6c1a8cc36cba50958f4d4b27d226c2da3b37ade
+  rtckit: 1fba5c8e5d88384457f750d148bcdd28cf435b8a
+
+PODFILE CHECKSUM: 70d9d25280d0dd177a5f637cdb0f0b0b12c6a189
+
+COCOAPODS: 1.11.2
